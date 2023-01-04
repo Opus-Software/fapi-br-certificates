@@ -1,6 +1,6 @@
 # ACs contidas no arquivo
 
-Abaixo a tabela com as ACs contidas no arquivo crt. 
+Abaixo a tabela com as ACs contidas no arquivo crt.
 Os itens da tabela estão na mesma ordem dos certificados no arquivo crt.
 
 Certificadora | Cadeia | Autoridade Certificadora | Emitido em | Expira em
