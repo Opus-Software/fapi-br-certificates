@@ -9,13 +9,13 @@ fontes no [Instituto Nacional de Tecnologia da Informação](https://www.gov.br/
 
 ## Open Finance Brasil (OFB)
 
-- [Ambiente sandbox](ca-certificates/ofb/sandbox/all-fapi-br-ca-certificates.crt) ([MD5](ca-certificates/ofb/sandox/all-fapi-br-ca-certificates.crt.md5))
-- [Ambiente produtivo](ca-certificates/ofb/production/all-fapi-br-ca-certificates.crt) ([MD5](ca-certificates/ofb/production/all-fapi-br-ca-certificates.crt.md5))
+- [Ambiente sandbox](ca-certificates/ofb/sandbox/all-fapi-br-ca-certificates.md)
+- [Ambiente produtivo](ca-certificates/ofb/production/all-fapi-br-ca-certificates.md)
 
 ## Open Insurance Brasil (OPIN)
 
-- [Ambiente sandbox](ca-certificates/opin/sandbox/all-fapi-br-ca-certificates.crt) ([MD5](ca-certificates/opin/sandbox/all-fapi-br-ca-certificates.crt.md5))
-- [Ambiente produtivo](ca-certificates/opin/production/all-fapi-br-ca-certificates.crt) ([MD5](ca-certificates/opin/production/all-fapi-br-ca-certificates.crt.md5))
+- [Ambiente sandbox](ca-certificates/opin/sandbox/all-fapi-br-ca-certificates.md)
+- [Ambiente produtivo](ca-certificates/opin/production/all-fapi-br-ca-certificates.md)
 
 ## Atualizado automaticamente
 
