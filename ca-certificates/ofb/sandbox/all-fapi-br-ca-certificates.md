@@ -10,7 +10,6 @@ Abaixo a tabela com as ACs contidas no arquivo [crt](all-fapi-br-ca-certificates
 | --- | --- | ---| --- | --- | 
 | [ *OPUS SELF-ISSUED*]() |  | [*Opus Software Self-Issued Demo*](https://www.opus-software.com.br/) | 19/07/2022 | 18/07/2032 | 
 | [*OFB Sandbox Directory SELF-ISSUED*]() |  | [*OFB Sandbox Directory*](https://www.opus-software.com.br/) | 09/03/2023 | 06/03/2033 | 
-| [*OFB Sandbox Directory SELF-ISSUED*]() |  | [*OFB Sandbox Directory*](https://www.opus-software.com.br/) | 11/12/2020 | 11/12/2023 | 
 | [CertiSign](https://www.gov.br/iti/pt-br/assuntos/repositorio/ac-certisign) | v5 | [AC Certisign G7](https://acraiz.icpbrasil.gov.br/credenciadas/CERTISIGN/v5/p/AC_Certisign_G7.crt) | 28/06/2016 | 02/03/2029 | 
 | [CertiSign](https://www.gov.br/iti/pt-br/assuntos/repositorio/ac-certisign) | v10 | [AC Certisign ICP-Brasil SSL G2](https://acraiz.icpbrasil.gov.br/credenciadas/CERTISIGN/v10/p/AC-CERTISIGN-ICP-BRASIL-SSL-G2.crt) | 17/11/2021 | 01/07/2032 | 
 | [CertiSign](https://www.gov.br/iti/pt-br/assuntos/repositorio/ac-certisign) | v10 | [AC Certisign ICP-Brasil SSL EV G3](https://acraiz.icpbrasil.gov.br/credenciadas/CERTISIGN/v10/p/AC-Certisign-ICP-Brasil-SSL-EV-G3.crt) | 28/12/2022 | 01/07/2032 | 
