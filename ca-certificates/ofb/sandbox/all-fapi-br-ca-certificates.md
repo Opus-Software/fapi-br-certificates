@@ -24,4 +24,6 @@ Abaixo a tabela com as ACs contidas no arquivo [crt](all-fapi-br-ca-certificates
 | [Soluti](https://www.gov.br/iti/pt-br/assuntos/repositorio/ac-soluti) | v5 | [AC SOLUTI v5 G2](https://acraiz.icpbrasil.gov.br/credenciadas/SOLUTI/v5/p/AC-SOLUTI-v5-G2.crt) | 05/05/2022 | 02/03/2029 | 
 | [Soluti](https://www.gov.br/iti/pt-br/assuntos/repositorio/ac-soluti) | v10 | [AC SOLUTI SSL EV G2](https://acraiz.icpbrasil.gov.br/credenciadas/SOLUTI/v10/p/AC-SOLUTI-SSL-EV-G2.crt) | 05/05/2022 | 01/07/2032 | 
 | [Soluti](https://www.gov.br/iti/pt-br/assuntos/repositorio/ac-soluti) | v10 | [AC SOLUTI SSL EV G3](https://acraiz.icpbrasil.gov.br/credenciadas/SOLUTI/v10/p/AC-SOLUTI-SSL-EV-G3.crt) | 07/12/2022 | 01/07/2032 | 
-| [Soluti](https://www.gov.br/iti/pt-br/assuntos/repositorio/ac-soluti) | v10 | [AC SOLUTI SSL EV G4](https://acraiz.icpbrasil.gov.br/credenciadas/SOLUTI/v10/p/AC-SOLUTI-SSL-EV-G4.crt) | 22/03/2023 | 01/07/2032 |
+| [Soluti](https://www.gov.br/iti/pt-br/assuntos/repositorio/ac-soluti) | v10 | [AC SOLUTI SSL EV G4](https://acraiz.icpbrasil.gov.br/credenciadas/SOLUTI/v10/p/AC-SOLUTI-SSL-EV-G4.crt) | 22/03/2023 | 01/07/2032 | 
+| [Valid](https://www.gov.br/iti/pt-br/assuntos/repositorio/ac-valid) | v5 | [AC VALID v5](https://acraiz.icpbrasil.gov.br/credenciadas/VALID/v5/p/AC_VALID_v5.crt) | 30/09/2016 | 02/03/2029 | 
+| [Valid](https://www.gov.br/iti/pt-br/assuntos/repositorio/ac-valid) | v10 | [AC VALID SSL EV](https://acraiz.icpbrasil.gov.br/credenciadas/VALID/v10/p/AC-VALID-SSL-EV.crt) | 28/07/2020 | 01/07/2032 |
